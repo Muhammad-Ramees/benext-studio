@@ -1,0 +1,29 @@
+/* TEAM */
+Team: BeNext Studio
+Founder & Visionary: Muhammad Ramees
+Website: https://www.benextstudio.com
+Email: benext.connect@gmail.com
+Location: Dubai, United Arab Emirates
+
+/* TECHNOLOGY */
+HTML5, CSS3, JavaScript
+Icons: FontAwesome
+Hosting: Git
+Design Stack: Figma, Claude
+Development Stack: VS Code, Git
+
+/* THANK YOU */
+To our early supporters, visionary clients, and the next-gen learners who inspire us daily.
+
+Created with creativity, clean code, and a passion for purpose.
+
+/* HIRE US */
+Need branding, a website, or a digital product?
+Let's talk → hello@benextstudio.com
+
+/* SOCIAL */
+Instagram: https://www.instagram.com/benextstudio
+LinkedIn: https://www.linkedin.com/company/benext-studio
+
+/* LAST UPDATED */
+2025-07-21
